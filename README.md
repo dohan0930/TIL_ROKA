@@ -1,5 +1,5 @@
 # TIL_ROKA
-Today I Learned in Republic of Korea Army  
+Today I Learned in Republic of Korea Army (2017.12.04 ~ 2019.08.10)  
 군생활 하는동안 제가 ~~물리적으로~~ 삽질 하면서 배운것에 대해서 정리해놓으려고 합니다.  
 
 ## Interests in 
@@ -13,4 +13,4 @@ Today I Learned in Republic of Korea Army
 
 ## Contacts
 * Email : revival0n@naver.com / dohan0930@gmail.com
-* [Facebook](fb.com/dohan0930) messenger
+* [Facebook](https://fb.com/dohan0930) messenger
