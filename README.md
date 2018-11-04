@@ -6,6 +6,7 @@
 * Information Security & Solutions
 * Linux Systems
 * Python 3
+* Git & Code Version Control
 * ~~전역시켜주세요~~
 
 ## My Experiences in ROKA
