@@ -38,8 +38,9 @@
 [Chrome](https://www.google.com/intl/ko_ALL/chrome) : 192 대역 업데이트 서버 이슈가 있긴 한데, 걍 직접 가서 다운 받으면 됩니다.    
 
 * **IDE**  
-[구름 IDE](https://ide.goorm.io/) : 국내 서비스. 어지간한건 이걸로 처리할 수 있습니다.  
-국방부 SW캠프에서도 이거 쓰게 하니까 미리 연습해보시는것도 추천. ~~좀 느린게 문제~~  
+[구름 IDE](https://ide.goorm.io/) : ~~국방부에서 공인한~~ 국내 서비스. 어지간한건 이걸로 처리할 수 있습니다.  
+국방부 SW캠프에서도 이거 쓰게 하니까 미리 연습해보시는것도 추천. 좀 느린게 문제긴 합니다.  
+w3m 써서 이걸로 github 들어온다는 사람도 봄...  
 [CodeAnywhere](https://codeanywhere.com) : 다른 중대 전우님이 쓰는거 봤는데 너무 괜찮던데요. 저도 한번 써보고 얘기해보겠습니다...  
 [Ideone](https://ideone.com) : 예제 코드 돌려보기 좋습니다.
 
