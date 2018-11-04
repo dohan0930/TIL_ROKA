@@ -11,7 +11,7 @@
 * 해 부대마다 규정이 조금씩 다른 점이 있습니다. 사지방 담당 간부님한테 가서 딜을 쳐봅시다. (github 열리는 부대도 있다고 들음)
 
 ##Useful
-* Web Browser
+* Web Browser  
 [Opera](https://www.opera.com/ko) : 내장되어있는 기능을 잘 활용합시다.  
 [Whale](https://whale.naver.com/ko) : 사람들은 속으로는 웨일을 좋아하면서 왜 싫어하는 척 하는걸까? 저는 잘 쓰고 있습니다.  
 [Chrome](https://www.google.com/intl/ko_ALL/chrome) : 무난무난  
