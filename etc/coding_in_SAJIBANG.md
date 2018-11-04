@@ -1,7 +1,7 @@
 #coding_in_SAJIBANG
 사지방에서 코딩 비스무리한거라도 해보기
 
-##사지방 환경
+##사지방 환경  
 * 원격접속 / ftp,telnet 등 자료 통신 프로그램 사용 금지 : 걸려서 징계당하기 싫으면 하지 마십시오. 
 * github 일반적으로 안됨 / gitlab, bitbucket은 가능
 * 일정 용량 이상 업로드 제한
@@ -16,7 +16,7 @@
 [Whale](https://whale.naver.com/ko) : 사람들은 속으로는 웨일을 좋아하면서 왜 싫어하는 척 하는걸까? 저는 잘 쓰고 있습니다.  
 [Chrome](https://www.google.com/intl/ko_ALL/chrome) : 무난무난  
 
-##More
+##More  
 다른 분들이 저보다 훨씬 잘 소개해주신 글들입니다.  
 * https://lalafell.network/lalafell/coding-on-ssajibang
 * https://neurowhai.tistory.com/192
