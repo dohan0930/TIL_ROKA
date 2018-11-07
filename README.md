@@ -11,6 +11,7 @@
 ## My Interests in ROKA
 * Information Security & Solutions
 * Linux Systems
+* Server Operation
 * Python 3
 * Git & Code Version Control
 * ~~전역시켜주세요~~
