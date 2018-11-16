@@ -6,10 +6,12 @@
 * 현직 군인인만큼 작성하는 시간이 부족합니다.
 * 평일에 일단 생각나는 주제에 대해서 작성해 놓고,  
   주말이나 휴가 등 시간이 많이 있는 시점에 마무리 짓는 형태로 글을 쓰고 있습니다.  
+* 이론상으로 정립이 안된 상태로 쓰는 글이다 보니 내용이 틀릴 수도 있습니다. 많은 피드백 부탁드립니다.
 * 글이 미완성된 상태로 있을 수 있습니다. ~~빠른 시일내에~~ 곧 완성될 글들입니다.  
 
 ## My Interests in ROKA
 * Information Security & Solutions
+* Reverse Code Engineering
 * Linux Systems
 * Server Operation
 * Python 3
