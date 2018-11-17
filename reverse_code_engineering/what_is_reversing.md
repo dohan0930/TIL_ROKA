@@ -3,7 +3,7 @@
 architecture, or to extract knowledge from the object; similar to scientific research,
 the only difference being that scientific research is about a natural phenomenon.
 
-## 리버싱 방법 종류
+## 분석 방법 종류
 ### 정적/동적 분석
 #### 정적 분석  
 실제 실행 없이 파일을 분석하는 방법  
