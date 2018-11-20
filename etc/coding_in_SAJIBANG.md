@@ -26,12 +26,10 @@
 * **해 부대마다 규정이 조금씩 다른 점이 있습니다. 사지방 담당 간부님한테 가서 딜을 쳐봅시다.**  
   (github 열리는 부대도 있다고 들음)
     
-* 제가 window용 git bash는 겁나서 안깔아봤는데 깔아보신 분 있으면 알려주십시오... (근데 아마 될 겁니다. 아마도??)  
-  cygwin 기반이라 상관없을 것 같긴한데 저번에 atom 깔다가 바이러스로그 뜬적도 있어서 쫄립니다....  
+* IDE에서 git 기능 제공하는것 많으니 그거 쓸 것.
 
 ## Useful
 * **Server**  
-~~개인서버가 있으면 편합니다. 이참에 개인 서버 하나 구축하십시오.~~  
 [Shell in a box](https://github.com/shellinabox/shellinabox) : 괜찮습니다. 몇개 깨지는거 빼고 저는 잘 쓰고 있습니다.
 
 * **Web Browser**  
@@ -47,12 +45,11 @@ w3m 써서 이걸로 github 들어온다는 사람도 봄...
 [Ideone](https://ideone.com) : 예제 코드 돌려보기 좋습니다.
 
 * **Network**  
-[Outgoing port tester](http://portquiz.net) : 포트가 열려있는지 확인하고 싶을 때. ~~이게 왜 필요하지 흠흠~~  
+[Outgoing port tester](http://portquiz.net) : 포트가 열려있는지 확인하고 싶을 때. 
 
 * **Messenger**  
 [slack](https://slack.com/) : 2018년 11월 기준으로 안 막혀있습니다. 킹갓 슬랙 최고다!!!  
 [facebook messenger](https://www.facebook.com/messages) : 자대 가서 사지방 가면 처음 켜게 되는 그것  
-
 
 ## More  
 다른 분들이 저보다 훨씬 잘 소개해주신 글들입니다.  
