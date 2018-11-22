@@ -19,3 +19,4 @@ AWS Lambda(FaaS), AWS S3(Cloud Storage), AWS Glacier(자주 불러올 필요가 
 
 ### Vector
 [Introducing Vector: Netflix’s On-Host Performance Monitoring Tool](https://medium.com/netflix-techblog/introducing-vector-netflixs-on-host-performance-monitoring-tool-c0d3058c3f6f)
+Vector는 Netflix에서 오픈소스로 공개하고 있는 Host-Level performance monitoring Framework이다.
