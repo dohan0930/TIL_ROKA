@@ -36,7 +36,7 @@ real processor 혹은 virtual processor상에서 파일을 직접 실행시켜 �
 
 ##### 역어셈블러
 * [IDA](https://www.hex-rays.com/products/ida/) : 다양한 플러그인(Hex-Ray 등)이 존재하는 매우 강하고 비싼 디버거 ~~IDA PRO 살만큼만 돈벌고 싶다~~
-* [objdump](http://korea.gnu.org/manual/release/binutils/binutils_5.html) : 
+* [objdump](http://korea.gnu.org/manual/release/binutils/binutils_5.html) : CUI 기반의 역어셈블러. GNU 바이너리 유틸리티로써 리눅스 계열에서 사용하는 역어셈블러이다.  
 
 ## 분석 대상
 바이너리 파일(일반적으로 리버싱에서는 실행 가능한 형식의 파일을 지칭.), 어셈블리 코드, 소스 코드  
