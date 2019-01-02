@@ -35,4 +35,4 @@
 ## Contacts
 * Email : revival0n@naver.com / dohan0930@gmail.com
 * [Facebook](https://www.facebook.com/dohan0930) messenger
-* [blog](revi4than.kr)
+* [blog](https://revi4than.kr)
